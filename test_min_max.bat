@@ -1,0 +1,1 @@
+"C:\Users\Iva Tsaneva\AppData\Local\Programs\Python\Python37-32\python.exe" "C:\Users\Iva Tsaneva\Desktop\sw_metrics_exam\test_max_min.py"
